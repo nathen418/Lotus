@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.7.5",
     "@distube/spotify": "^1.0.0",
     "aoi.js": "^5.0.3",
