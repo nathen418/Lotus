@@ -15,7 +15,7 @@
     "@distube/spotify": "^1.0.0",
     "aoi.js": "^5.0.3",
     "discord.js": "^13.3.1",
-    "distube": "^3.0.3",
+    "distube": "^4.0.4",
     "dotenv": "^10.0.0",
     "ffmpeg-static": "^4.4.0",
     "leaf-utils": "^1.0.9",
